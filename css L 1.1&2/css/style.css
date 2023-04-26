@@ -1,0 +1,22 @@
+.pera{
+    color:red;
+    font-size:20px;
+    font-family:arial;
+    font-weight:900;
+    letter-spacing:1px;
+    line-height:2;
+    text-decoration:overline;
+    text-indent:100px;
+
+}
+a{
+    color:black;
+    text-decoration:none;
+    background-color:aquamarine;
+}
+
+#pera{
+    color:brown;
+    text-transform: uppercase;
+    font-style:italic
+}
